@@ -63,6 +63,11 @@
             <id>imagej.snapshots</id>
 	    <url>https://maven.scijava.org/content/repositories/releases</url>
         </repository>
+        <repository>
+	    <id>mvnrepository</id>
+	    <url>https://mvnrepository.com/artifact/jama/jama</url>
+        </repository>
+
     </repositories>
 
     <dependencies>
